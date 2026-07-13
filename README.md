@@ -17,6 +17,6 @@ Portfólio pessoal de **Nirobe**, focado em desenvolvimento de software e segura
 4. Selecione main / root
 5. Acesse:
 
-https://SEU-USUARIO.github.io/portfolio
+https://increpar.github.io/portfolio
 
 ⚠️ Todo conteúdo relacionado à segurança é ético, legal e educacional.
